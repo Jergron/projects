@@ -12,11 +12,11 @@
 */
 
 function toCelsius (num) {
-   return (num - 32) * 1.8
+   return (num - 32) / 1.8
 }
 
 function toFahrenheit (num) {
-  return (num * 1.8 + 32)
+  return (num * 1.8 + 32);
 }
 
 // This function should determine which conversion should

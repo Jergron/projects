@@ -1,5 +1,6 @@
 body {
 	text-align: center;
+	
 }
 
 h1 {
@@ -34,6 +35,9 @@ button {
   width: 300px;
   font-size: 2em;
   font-weight: bold;
+  border: 10px solid black;
+  border-radius: 5px;
+  font-family: sans-serif;
 }
 
 .red {
